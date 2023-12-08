@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.head{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 30px;
+}
+ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 50px;   
+}
+.en{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+a{
+    text-decoration: none;
+}
+.logo{
+    width: 114.91px;
+}
+.vector{
+    width: 9px;
+}
